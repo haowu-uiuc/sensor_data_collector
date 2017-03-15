@@ -130,3 +130,4 @@ STATIC_URL = '/static/'
 
 # DATA_UPLOAD_MAX_NUMBER_FIELDS = 
 
+STATIC_ROOT = os.path.join(BASE_DIR, "static/")
